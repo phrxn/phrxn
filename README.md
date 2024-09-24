@@ -1,4 +1,4 @@
-## Who am i?
+## Who am I?
 I'm David, I have a degree in Information Systems from Universidade Paulista (UNIP), and I'm currently studying at [42 São Paulo](https://www.42sp.org.br/). I'm passionate about programming and finding efficient solutions. I'm inspired by projects that serve as the basis for others, such as operating systems or web engines, such as Blink.
 
 I'm currently working on my web page, refactoring my project (Javis), which will soon be available here. In addition, I'm working in a group developing a simple web server in C++98.
