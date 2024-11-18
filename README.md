@@ -43,6 +43,8 @@ I'm currently working on my web page, refactoring my project (Javis), which will
 ### C++
 
 [![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/cppe.png)](https://github.com/phrxn/cpp_modules)
+[![Webserv logo](https://github.com/phrxn/webserv/blob/main/images/logo_150x150.png)](https://github.com/phrxn/webserv)
+
 
 ### Java
 
