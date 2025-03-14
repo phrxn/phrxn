@@ -12,7 +12,7 @@ I'm currently working on my web page, refactoring my project (Javis), which will
 </div>
 
 ## Tools
-- Git / Github / CMake / Maven / Valgrind / Make
+- Git / Github / CMake / Maven / Valgrind / Make / Docker
 
 ## Unit Test
 - JUnit / Mockito / GoogleTest / GoogleMock
