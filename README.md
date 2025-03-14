@@ -26,9 +26,9 @@ I'm currently working on my web page, refactoring my project (Javis), which will
 - Data structures
 - Design Patterns (GoF) among others
 
-## My projects
+# My projects
 
-### C
+## C
 
 [![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/libfte.png)](https://github.com/phrxn/libft)
 [![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/get_next_linee.png)](https://github.com/phrxn/get_next_line)
@@ -40,16 +40,20 @@ I'm currently working on my web page, refactoring my project (Javis), which will
 [![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/minishelle.png)](https://github.com/phrxn/MiniShell)
 [![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/minirte.png)](https://github.com/phrxn/miniRT)
 
-### C++
+## C++
 
 [![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/cppe.png)](https://github.com/phrxn/cpp_modules)
 [![Webserv logo](https://github.com/phrxn/webserv/blob/main/images/logo_150x150.png)](https://github.com/phrxn/webserv)
 
 
-### Java
+## Java
 
 [![active_directory_logo](https://github.com/phrxn/phrxn/blob/master/active_directory/active-directory-logo.png)](https://github.com/phrxn/active-directory)
 
-### Others
+## Docker
+
+[![docker_logo](https://raw.githubusercontent.com/phrxn/phrxn/refs/heads/master/42/badges/logo-docker.png)](https://github.com/phrxn/inception)
+
+## Others
 
 [![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/netpracticee.png)](https://github.com/phrxn/net_practice)
