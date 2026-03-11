@@ -58,6 +58,10 @@ I'm currently working on my web page, refactoring my project (Javis), which will
 
 [![active_directory_logo](https://github.com/phrxn/phrxn/blob/master/active_directory/active-directory-logo.png)](https://github.com/phrxn/active-directory)
 
+## Typescript / Javascript / CSS / HTML
+
+[![active_directory_logo](https://raw.githubusercontent.com/phrxn/phrxn/refs/heads/master/42/badges/ft_transcendencen.png)](https://github.com/42-Trancendence-Group/42-Transcendence)
+
 ## Docker
 
 [![docker_logo](https://raw.githubusercontent.com/phrxn/phrxn/refs/heads/master/42/badges/logo-docker.png)](https://github.com/phrxn/inception)
