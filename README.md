@@ -34,38 +34,125 @@ I'm currently working on my web page, refactoring my project (Javis), which will
 - Data structures
 - Design Patterns (GoF) among others
 
-# My projects
+## My Projects
 
-## C
+### C
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/libft">
+        <img src="https://github.com/phrxn/phrxn/blob/master/42/badges/libfte.png" alt="libft">
+      </a>
+    </td>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/get_next_line">
+        <img src="https://github.com/phrxn/phrxn/blob/master/42/badges/get_next_linee.png" alt="get_next_line">
+      </a>
+    </td>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/ft_printf">
+        <img src="https://github.com/phrxn/phrxn/blob/master/42/badges/ft_printfe.png" alt="ft_printf">
+      </a>
+    </td>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/FdF">
+        <img src="https://github.com/phrxn/phrxn/blob/master/42/badges/fdfe.png" alt="FdF">
+      </a>
+    </td>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/pipex">
+        <img src="https://github.com/phrxn/phrxn/blob/master/42/badges/pipexe.png" alt="pipex">
+      </a>
+    </td>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/push_swap">
+        <img src="https://github.com/phrxn/phrxn/blob/master/42/badges/push_swape.png" alt="push_swap">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/philosophers">
+        <img src="https://github.com/phrxn/phrxn/blob/master/42/badges/philosopherse.png" alt="philosophers">
+      </a>
+    </td>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/MiniShell">
+        <img src="https://github.com/phrxn/phrxn/blob/master/42/badges/minishelle.png" alt="MiniShell">
+      </a>
+    </td>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/miniRT">
+        <img src="https://github.com/phrxn/phrxn/blob/master/42/badges/minirte.png" alt="miniRT">
+      </a>
+    </td>
+    <td style="border:none;"></td>
+    <td style="border:none;"></td>
+    <td style="border:none;"></td>
+  </tr>
+</table>
 
-[![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/libfte.png)](https://github.com/phrxn/libft)
-[![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/get_next_linee.png)](https://github.com/phrxn/get_next_line)
-[![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/ft_printfe.png)](https://github.com/phrxn/ft_printf)
-[![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/fdfe.png)](https://github.com/phrxn/FdF)
-[![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/pipexe.png)](https://github.com/phrxn/pipex)
-[![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/push_swape.png)](https://github.com/phrxn/push_swap)
-[![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/philosopherse.png)](https://github.com/phrxn/philosophers)
-[![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/minishelle.png)](https://github.com/phrxn/MiniShell)
-[![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/minirte.png)](https://github.com/phrxn/miniRT)
+### C++
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/cpp_modules">
+        <img src="https://github.com/phrxn/phrxn/blob/master/42/badges/cppe.png" alt="C++ Modules">
+      </a>
+    </td>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/webserv">
+        <img src="https://github.com/phrxn/webserv/blob/main/images/logo_150x150.png" alt="Webserv" height="120">
+      </a>
+    </td>
+  </tr>
+</table>
 
-## C++
+### Java
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/active-directory">
+        <img src="https://github.com/phrxn/phrxn/blob/master/active_directory/active-directory-logo.png" alt="Active Directory" height="120">
+      </a>
+    </td>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/javis-administrator">
+        <img src="https://raw.githubusercontent.com/phrxn/phrxn/refs/heads/master/javis/administrator/logo.png" alt="Javis Administrator" height="120">
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/cppe.png)](https://github.com/phrxn/cpp_modules)
-[![Webserv logo](https://github.com/phrxn/webserv/blob/main/images/logo_150x150.png)](https://github.com/phrxn/webserv)
+### Typescript / Javascript / CSS / HTML
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/42-Trancendence-Group/42-Transcendence">
+        <img src="https://raw.githubusercontent.com/phrxn/phrxn/refs/heads/master/42/badges/ft_transcendencen.png" alt="42 Transcendence">
+      </a>
+    </td>
+  </tr>
+</table>
 
+### Docker
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/inception">
+        <img src="https://raw.githubusercontent.com/phrxn/phrxn/refs/heads/master/42/badges/logo-docker.png" alt="Docker">
+      </a>
+    </td>
+  </tr>
+</table>
 
-## Java
-
-[![active_directory_logo](https://github.com/phrxn/phrxn/blob/master/active_directory/active-directory-logo.png)](https://github.com/phrxn/active-directory)
-
-## Typescript / Javascript / CSS / HTML
-
-[![active_directory_logo](https://raw.githubusercontent.com/phrxn/phrxn/refs/heads/master/42/badges/ft_transcendencen.png)](https://github.com/42-Trancendence-Group/42-Transcendence)
-
-## Docker
-
-[![docker_logo](https://raw.githubusercontent.com/phrxn/phrxn/refs/heads/master/42/badges/logo-docker.png)](https://github.com/phrxn/inception)
-
-## Others
-
-[![42 Badge](https://github.com/phrxn/phrxn/blob/master/42/badges/netpracticee.png)](https://github.com/phrxn/net_practice)
+### Others
+<table style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:5px;" align="center">
+      <a href="https://github.com/phrxn/net_practice">
+        <img src="https://github.com/phrxn/phrxn/blob/master/42/badges/netpracticee.png" alt="Net Practice">
+      </a>
+    </td>
+  </tr>
+</table>
