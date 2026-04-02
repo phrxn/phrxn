@@ -33,6 +33,8 @@ I'm currently working on my web page, refactoring my project (Javis), which will
 - Cryptography
 - Data structures
 - Design Patterns (GoF) among others
+- API (RESTful)
+- AWS (Lambda, EC2, EBS, S3, SQS, SNS, IAM, EFS, ELB (ALB, NLB, GWLB)) 
 
 # My projects
 
