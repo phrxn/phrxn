@@ -19,7 +19,7 @@ I'm currently working on my web page, refactoring my project (Javis), which will
 - Git / Github / CMake / Maven / Valgrind / Make
 
 ## Unit Test
-- JUnit / Mockito / GoogleTest / GoogleMock
+- JUnit / Mockito / GoogleTest / GoogleMock / Jasmine
 
 ## Frameworks / Library
 Angular / React / Spring 
