@@ -1,8 +1,6 @@
 ## Who am I?
 I'm David, I have a degree in Information Systems from Universidade Paulista (UNIP), and I'm currently studying at [42 São Paulo](https://www.42sp.org.br/). I'm passionate about programming and finding efficient solutions. I am inspired by projects that serve as the basis for others, such as operating systems or web engines, such as Blink, chromium, the Linux kernel, among others.
 
-I'm currently working on my web page, refactoring my project (Javis), which will soon be available here. In addition, I am working on a project involving docker and kubernetes
-
 ## My languages
 <div style="display: inline_block">
   <img align="center" style="padding: 5px" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
